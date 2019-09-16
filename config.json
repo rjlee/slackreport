@@ -1,0 +1,4 @@
+{
+"SLACKREPORT_REPORT_MESSAGE_TEXT": "<@${body.user.id}> reported message '${payload.message.text}' from <@${payload.message.user}> in channel <#${payload.channel.id}>",
+"SLACKREPORT_ACKNOWLEDGE_MESSAGE_TEXT": "The message was successfully reported, we will review the message and contact you if any further information is required."
+}
